@@ -1,0 +1,38 @@
+# French translations for PROJECT.
+# Copyright (C) 2020 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2020.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2020-08-30 18:18-0400\n"
+"PO-Revision-Date: 2020-08-30 18:18-0400\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: fr\n"
+"Language-Team: fr <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.8.0\n"
+
+#: templates/3-index.html:8 templates/4-index.html:8 templates/5-index.html:8
+#: templates/6-index.html:8 templates/7-index.html:8 templates/index.html:8
+msgid "home_title"
+msgstr "Bienvenue chez Holberton"
+
+#: templates/3-index.html:13 templates/4-index.html:13
+#: templates/5-index.html:13 templates/6-index.html:13
+#: templates/7-index.html:13 templates/index.html:13
+msgid "home_header"
+msgstr "Bonjour monde!"
+
+#: templates/5-index.html:15
+msgid "logged_in_as"
+msgstr "Vous êtes connecté en tant que %(username)s."
+
+#: templates/5-index.html:17
+msgid "not_logged_in"
+msgstr "Vous n'êtes pas connecté."
